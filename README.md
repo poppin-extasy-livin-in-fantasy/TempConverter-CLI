@@ -34,5 +34,5 @@ l0 u300 s20 r
 
 
 ## Built with
-- ISO C++20 Standard (/std:c++20)
+- С Default (Legacy MSVC)
 - Visual Studio 2026
